@@ -1,0 +1,12 @@
+# Binarios de compilación
+*.o
+*.img
+*.bin
+*.elf
+
+# Logs y volcados de memoria
+*.log
+*.map
+
+# Archivos de depuración de QEMU/GDB
+.gdb_history
